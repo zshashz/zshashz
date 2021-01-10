@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: idk
 
-<img src="https://github-readme-stats.vercel.app/api?username=zshashz'>
+<img src="https://github-readme-stats.vercel.app/api?username=zshashz">
