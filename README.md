@@ -1,9 +1,9 @@
-### Hi there 👋
+### hi there, i'm shash
 
-- 🔭 I’m currently a first year CSE student
-- 🌱 I’m currently learning C++ 
-- 📫 How to reach me: @zshashz on twitter
-- 😄 Pronouns: He/They
-- ⚡ Fun fact: idk
+🔸 19, he/him 
+🔸 Computer Science Freshman
+🔸 C/C++ 
+🔸 Interested in AI/ML
+🔸 Contact [@zshashz](https://twitter.com/zshashz)
 
 <img src="https://github-readme-stats.vercel.app/api?username=zshashz">
