@@ -26,7 +26,7 @@
 
 Hi, i'm Shashwat Sharma, Machine Learning beginner from India. 
 
-<img align="right" alt="GIF" width="360px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Speaking of Me:**
 
