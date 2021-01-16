@@ -26,7 +26,7 @@
 
 Hi, i'm Shashwat Sharma, Machine Learning beginner from India. 
 
-<img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" width="360px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Speaking of Me:**
 
@@ -38,6 +38,6 @@ Hi, i'm Shashwat Sharma, Machine Learning beginner from India.
 
 ---
 
-<img height='210px' src="https://github-readme-stats.vercel.app/api?username=zshashz&show_icons=true&theme=radical"><img height='210px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshashz&show_icons=true&theme=radical">
+<img height='180px' src="https://github-readme-stats.vercel.app/api?username=zshashz&show_icons=true&theme=radical"><img height='180px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshashz&show_icons=true&theme=radical">
 
 ---
