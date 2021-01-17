@@ -24,16 +24,16 @@
 
 ---
 
-Hi, i'm Shashwat Sharma, Machine Learning beginner from India. 
-
+Hi, i'm Shashwat Sharma, Machine Learning beginner from India.
+</br>
 <img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+
 **Speaking of Me:**
 
 - 🌱 I’m currently a Computer Science and Data Sciene Double Major;
 - 🚀 I'm a huge Space enthusiast and love reading astrophysics books;
-- ⚽ I play Football, Cricket and Table Tennis
-- 🐉 I love learning about new cultures and can speak 4 languages!
+- ⚽ I play Football, Cricket and Table Tennis;
+- 🐉 I love learning about new cultures and can speak 4 languages;
 - ⚡️ Elon Musk has liked my tweets 9 times!
 
 ---
