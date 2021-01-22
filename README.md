@@ -18,8 +18,8 @@
 
 🔸 19, he/him 
 🔸 Computer Science Freshman
-🔸 C/C++ 
-🔸 Interested in AI/ML
+🔸 C/C++ | Python
+🔸 AI/ML Beginner
 🔸 Contact [@zshashz](https://twitter.com/zshashz)
 
 ---
@@ -30,10 +30,10 @@ Hi, i'm Shashwat Sharma, Machine Learning beginner from India.
 
 **Speaking of Me:**
 
-- 🌱 I’m currently a Computer Science and Data Sciene Double Major;
-- 🚀 I'm a huge Space enthusiast and love reading astrophysics books;
+- 🌱 Currently a Computer Science and Data Sciene Double Major;
+- 🚀 Huge Space enthusiast and love reading on astrophysics;
 - ⚽ I play Football, Cricket and Table Tennis;
-- 🐉 I love learning about new cultures and can speak 4 languages;
+- 🐉 Love learning about new cultures and can speak 4 languages;
 - ⚡️ Elon Musk has liked my tweets 9 times!
 
 ---
