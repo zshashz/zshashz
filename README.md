@@ -16,7 +16,7 @@
 
 ---
 
-🔸 19, he/him 
+🔸 20, he/him 
 🔸 Computer Science Freshman
 🔸 C/C++ | Python
 🔸 AI/ML Beginner
